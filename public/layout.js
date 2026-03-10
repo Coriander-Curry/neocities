@@ -38,7 +38,7 @@ function initActiveLinks() {
 
     if (pathname == "/") {
       // homepage
-      if (elHref == "/" || elHref == "/index.html") el.classList.add("active");
+      if (elHref == "/" || elHref == "/index") el.classList.add("active");
     } else {
       // other pages
       if (window.location.href.includes(elHref)) el.classList.add("active");

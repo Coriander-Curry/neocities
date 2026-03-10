@@ -86,9 +86,9 @@ const headerEl = `
 	        <nav>
 	          <ul>
               <li><a href="index.html">Home</a></li>
-	            <li><a href="about.html">About</a></li>
+	            <li><a href="about-me.html">About</a></li>
 	            <li><a href="tutorials.html">Tutorials</a></li>
-              <li><a href="projcts.html">Projects</a></li>
+              <li><a href="projects.html">Projects</a></li>
 	            <li><a href="blog.html">Blog</a></li>
 	            <li>
 	                <strong>Gallery</strong>

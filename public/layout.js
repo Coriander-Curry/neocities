@@ -182,10 +182,10 @@ const headerEl = `
         <div class="sidebar-section">
           <div class="sidebar-title">Current Projects</div>
           <ul>
-            <li><a href="/">Murder in the Alps MQAL</a></li>
-            <li><a href="/">Tee Shirt Scraps</a></li>
-            <li><a href="/">Big HST from FQs</a></li>
-            <li><a href="/">Butterfly Effect</a></li>
+            <li><a href="alps.html">Murder in the Alps MQAL</a></li>
+            <li><a href="teeshirt.html">Tee Shirt Scraps</a></li>
+            <li><a href="bighst.html">Big HST from FQs</a></li>
+            <li><a href="butterfly.html">Butterfly Effect</a></li>
           </ul>
         </div>
         

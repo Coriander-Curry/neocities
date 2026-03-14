@@ -167,8 +167,8 @@ const headerEl = `
 	  
         
         <div class="sidebar-section">
-          <div class="sidebar-title">Snippets</div>
-          <p>and scraps of thread from the cutting room floor</p>
+          <div class="sidebar-title">Chinatsu~</div>
+          <a href="https://tamanotchi.world/31108c"><img src="https://tamanotchi.world/i2/31108" alt="It's tamaNOTchi! Click to feed!"></a>
         </div>
         
         <div class="sidebar-section">
@@ -189,10 +189,6 @@ const headerEl = `
           </ul>
         </div>
         
-        <div class="sidebar-section">
-          <div class="sidebar-title">Surfing the net</div>
-          <img class="full-width-image" src="https://picsum.photos/id/37/1000/400">
-        </div>
 
         <div class="sidebar-section">
           <div class="sidebar-title">Layout by</div>
@@ -205,6 +201,9 @@ const headerEl = `
           <div class="sidebar-title">Listening to~</div>
           <iframe src="https://petracoding.github.io/neocities/widgets/lastfm?center=0&marquee=1&font-family=Times New Roman&font-size=16px&color=#c85acb&username=Coriander-Curry&swapPositions=0&delimiter=by&underline="  frameborder="0" title="Last.Fm Status"></iframe>
         </div>
+       
+
+		
       </aside>
     
 `;

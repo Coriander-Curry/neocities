@@ -154,7 +154,9 @@ const headerEl = `
         </div>
         
         <div class="sidebar-section">
-          <div class="sidebar-title">You scrolled to the bottom</div>
+        <blockquote>
+          <iframe width="140" height="220" style="border:none" src="https://dimden.dev/moon?custom=1&textColor=%23ab098e" name="dimdenmoonwidget"></iframe>
+          </blockquote>
         </div>
       </aside>
 	

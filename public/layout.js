@@ -164,8 +164,8 @@ const headerEl = `
       <aside class="right-sidebar">
 	  
         
-        <div class="sidebar-section">
-          <div class="sidebar-title">Chinatsu~</div>
+        <div class="sidebar-section" style="text-align:center;">
+          <div class="sidebar-title" style="text-align:left;margin-bottom:10px;">Chinatsu~</div>
           <a href="https://tamanotchi.world/31108c"><img src="https://tamanotchi.world/i2/31108" alt="It's tamaNOTchi! Click to feed!"></a>
         </div>
         

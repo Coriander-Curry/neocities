@@ -120,7 +120,8 @@ const headerEl = `
         </div>
         
         <div class="sidebar-section">
-        <div class="sidebar-title">slowly loading thoughts...</div>
+        <div class="sidebar-title">Japanese Manga & Books </div> 
+        <p>Listed on <a href="https://learnnatively.com/user/Coriander/jpn/books/"> Natively</a></p>
         </div>
         
         <div class="sidebar-section">
@@ -172,8 +173,8 @@ const headerEl = `
         <div class="sidebar-section">
           <div class="sidebar-title">Recently completed media</div>
           <blockquote>
-            <p>Pete and Pete</p>
-            <p>Apothecary Diaries</p>
+            <p><a href="https://en.wikipedia.org/wiki/The_Adventures_of_Pete_%26_Pete">The Adventures of Pete and Pete</a></p>
+            <p><a href="https://kusuriyanohitorigoto.jp/season1/">Apothecary Diaries</a></p>
           </blockquote>
         </div>
         

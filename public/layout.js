@@ -114,24 +114,20 @@ const headerEl = `
 	  
         
         <div class="sidebar-section">
-          <div class="sidebar-title">Guestbook placeholder</div>
-          <p>Leave a note</p>
-          <p>and don't be a jerk :p</p>
+          <div class="sidebar-title">Currently Reading~</div>
+          <img class="full-width-image" src="images/flyingwitch3.jpg">
+          
         </div>
         
         <div class="sidebar-section">
-          <div class="sidebar-title">Currently</div>
-          <blockquote>
-            <p>calculating cost per square inch of muslin</p>
-            <p>rehoming spiders to the great outdoors</p>
-          </blockquote>
+        <div class="sidebar-title">slowly loading thoughts...</div>
         </div>
         
         <div class="sidebar-section">
           <div class="sidebar-title">Meet the cats =^.^=</div>
           <ul>
-            <li><a href="/">Dominic</a></li>
-            <li><a href="/">Cameo</a></li>
+            <li><a href="Dominic.html">Dominic</a></li>
+            <li><a href="Cameo.html">Cameo</a></li>
           </ul>
         </div>
 

@@ -144,11 +144,7 @@ const headerEl = `
           </marquee>
         </div>
         
-        <div class="sidebar-section">
-        <blockquote>
-          <iframe width="140" height="220" style="border:none" src="https://dimden.dev/moon?custom=1&textColor=%23ab098e" name="dimdenmoonwidget"></iframe>
-          </blockquote>
-        </div>
+      
       </aside>
 	
 	  
@@ -184,11 +180,10 @@ const headerEl = `
         </div>
         
 
-        <div class="sidebar-section">
-          <div class="sidebar-title">Layout by</div>
-          <div class="site-button">
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-          </div>
+       <div class="sidebar-section">
+        <blockquote>
+          <iframe width="140" height="220" style="border:none" src="https://dimden.dev/moon?custom=1&textColor=%23ab098e" name="dimdenmoonwidget"></iframe>
+          </blockquote>
         </div>
         
         <div class="sidebar-section">

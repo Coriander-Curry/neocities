@@ -80,28 +80,8 @@ const nesting = getNestingString();
 const headerEl = `
  <header>
   <div class="header-content">
-	        <div class="header-title">Coriander Curry</div>
+	
 	        
-	        <!-- NAVIGATION -->
-	        <nav>
-	          <ul>
-              <li><a href="index.html">Home</a></li>
-	            <li><a href="about.html">About</a></li>
-	            <li><a href="tutorials.html">Tutorials</a></li>
-              <li><a href="projects.html">Projects</a></li>
-	            <li><a href="blog.html">Blog</a></li>
-	            <li>
-	                <strong>Gallery</strong>
-	                <ul>
-	                  <li><a href="/page-a">Costumes</a></li>
-	                  <li><a href="/page-b">Quilts</a></li>
-	                  <li><a href="/page-c">Clothes</a></li>
-	                  <li><a href="/page-d">Dolls</a></li>
-	            
-	                </ul>
-	            </li>
-	          </ul>
-	        </nav>
         	
         </div>
       </header>
@@ -111,12 +91,26 @@ const headerEl = `
       <!-- =============================================== -->
 
       <aside class="left-sidebar">
-	  
-        
+      
         <div class="sidebar-section">
           <div class="sidebar-title">Currently Reading~</div>
           <a href="https://learnnatively.com/book/d40152715a/"><img class="full-width-image" src="images/flyingwitch3.jpg"></a>
-          
+        </div>
+
+        <div class="sidebar-section">
+        <!-- NAVIGATION -->
+        <blockquote>
+	        <nav>
+	          <ul>
+              <li><a href="index.html">Home</a></li>
+	            <li><a href="about.html">About</a></li>
+	            <li><a href="tutorials.html">Tutorials</a></li>
+              <li><a href="projects.html">Projects</a></li>
+	            <li><a href="blog.html">Blog</a></li>
+	            <li><a href="gallery.html">Gallery</a></li>
+	          </ul>
+	        </nav>
+        </blockquote>
         </div>
         
         <div class="sidebar-section">
@@ -171,8 +165,9 @@ const headerEl = `
         </div>
         
         <div class="sidebar-section">
+        <blockquote>
           <div class="sidebar-title">Recently completed media</div>
-          <blockquote>
+          
             <p><a href="https://en.wikipedia.org/wiki/The_Adventures_of_Pete_%26_Pete">The Adventures of Pete and Pete</a></p>
             <p><a href="https://kusuriyanohitorigoto.jp/season1/">Apothecary Diaries</a></p>
           </blockquote>

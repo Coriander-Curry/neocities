@@ -163,9 +163,9 @@ const headerEl = `
         <div class="sidebar-section">
         <blockquote>
           <div class="sidebar-title">Recently completed media</div>
-          
+            <p><a href="https://letterboxd.com/film/hackers/">Hackers</a></p>
             <p><a href="https://en.wikipedia.org/wiki/The_Adventures_of_Pete_%26_Pete">The Adventures of Pete and Pete</a></p>
-            <p><a href="https://kusuriyanohitorigoto.jp/season1/">Apothecary Diaries</a></p>
+            
           </blockquote>
         </div>
         
@@ -180,18 +180,20 @@ const headerEl = `
         </div>
         
 
-       <div class="sidebar-section">
+        <div class="sidebar-section">
+          <blockquote>
+          <div class="sidebar-title">Playing~</div>
+          <img class="full-width-image" src="images/spirit.jpg">
+          <p><a href="https://store.steampowered.com/app/2113850/Spirit_City_Lofi_Sessions/">Spirit City Lofi Sessions</a></p>
+          </blockquote>
+          </div>
+
+
+        <div class="sidebar-section">
         <blockquote>
           <iframe width="140" height="220" style="border:none" src="https://dimden.dev/moon?custom=1&textColor=%23ab098e" name="dimdenmoonwidget"></iframe>
           </blockquote>
-        </div>
-        
-        <div class="sidebar-section">
-          <div class="sidebar-title">Listening to~</div>
-          <iframe src="https://petracoding.github.io/neocities/widgets/lastfm?center=0&marquee=1&font-family=Times New Roman&font-size=16px&color=#c85acb&username=Coriander-Curry&swapPositions=0&delimiter=by&underline="  frameborder="0" title="Last.Fm Status"></iframe>
-        </div>
-       
-
+        </div>    
 		
       </aside>
     

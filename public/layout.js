@@ -115,7 +115,8 @@ const headerEl = `
         
         <div class="sidebar-section">
         <div class="sidebar-title">Japanese Manga & Books </div> 
-        <p>Listed on <a href="https://learnnatively.com/user/Coriander/jpn/books/"> Natively</a></p>
+        <p>Collection listed on <a href="https://learnnatively.com/user/Coriander/jpn/books/"> Natively</a></p>
+        <p>Reading blog/plan/log <a href="reading.html">here</a></p>
         </div>
         
         <div class="sidebar-section">

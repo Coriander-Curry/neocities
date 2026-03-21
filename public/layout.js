@@ -94,7 +94,7 @@ const headerEl = `
       
         <div class="sidebar-section">
           <div class="sidebar-title">Currently Reading~</div>
-          <a href="https://learnnatively.com/book/d40152715a/"><img class="full-width-image" src="images/flyingwitch3.jpg"></a>
+          <a href="https://learnnatively.com/book/12d4602ede/"><img class="full-width-image" src="images/yotsuba16.jpg"></a>
         </div>
 
         <div class="sidebar-section">

@@ -164,6 +164,8 @@ const headerEl = `
         <div class="sidebar-section">
         <blockquote>
           <div class="sidebar-title">Recently completed media</div>
+            <p><a href="https://letterboxd.com/film/star-trek-generations/">Star Trek: Generations</a></p>
+            <p><a href="https://letterboxd.com/film/art-school-confidential/">Art School Confidential</a></p>
             <p><a href="https://letterboxd.com/film/hackers/">Hackers</a></p>
             <p><a href="https://en.wikipedia.org/wiki/The_Adventures_of_Pete_%26_Pete">The Adventures of Pete and Pete</a></p>
             
@@ -182,19 +184,17 @@ const headerEl = `
         
 
         <div class="sidebar-section">
-          <blockquote>
-          <div class="sidebar-title">Playing~</div>
-          <img class="full-width-image" src="images/spirit.jpg">
-          <p><a href="https://store.steampowered.com/app/2113850/Spirit_City_Lofi_Sessions/">Spirit City Lofi Sessions</a></p>
-          </blockquote>
-          </div>
-
-
+            <div class="sidebar-title">Playing~</div>
+            <img class="full-width-image" src="images/spirit.jpg">
+            <p><a href="https://store.steampowered.com/app/2113850/Spirit_City_Lofi_Sessions/">Spirit City Lofi Sessions</a></p>
+        </div>
+       
         <div class="sidebar-section">
-        <blockquote>
+        <div style="background-color: #379baf; padding 10px;">
           <iframe width="140" height="220" style="border:none" src="https://dimden.dev/moon?custom=1&textColor=%23ab098e" name="dimdenmoonwidget"></iframe>
-          </blockquote>
-        </div>    
+          
+        </div>  
+        </div>  
 		
       </aside>
     

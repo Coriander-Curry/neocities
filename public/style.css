@@ -7,13 +7,13 @@
 /* Variables are used like this: var(--text-color) */
 :root {
   /* Background Colors: */
-  --background-color: #ff83ef;
-  --content-background-color: #fdecfb;
-  --sidebar-background-color: #e1fcff;
+  --background-color: #ff83ef96;
+  --content-background-color: #a6f1f596;
+  --sidebar-background-color: #a6f1f596;
 
   /* Text Colors: */
-  --text-color: #0b7190;
-  --sidebar-text-color: #379baf;
+  --text-color: #277888;
+  --sidebar-text-color: #277888;
   --link-color: #c85acb;
   --link-color-hover: #ab098e;
 
@@ -176,7 +176,7 @@ aside {
 /* Sidebar Blockquote: */
 
 .sidebar-section blockquote {
-  background: rgba(0, 0, 0, 0.1);
+  background: #ffe6ff96;
   padding: 15px;
   margin: 1em 0;
   border-radius: 10px;
@@ -352,7 +352,7 @@ main ol {
 }
 
 main blockquote {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, 0.13);
   padding: 15px;
   margin: 1em 0;
   border-radius: 10px;

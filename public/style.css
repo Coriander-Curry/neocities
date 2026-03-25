@@ -18,7 +18,7 @@
   --link-color-hover: #ab098e;
 
   /* Text: */
-  --font: 'janda_silly_monkeyregular', Georgia, serif;
+  --font: Georgia, serif;
   --heading-font: Verdana, sans-serif;
   --font-size: 15px;
 
@@ -30,16 +30,6 @@
   --sidebar-width: 200px;
 }
 
-
-@font-face {
-    font-family: 'janda_silly_monkeyregular';
-    src: url('jandasillymonkey-webfont.woff2') format('woff2'),
-         url('jandasillymonkey-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-
-}
 
 /* -------------------------------------------------------- */
 /* BASICS */

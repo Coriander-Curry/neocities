@@ -178,7 +178,7 @@ const headerEl = `
             <li><a href="alps.html">Murder in the Alps MQAL</a></li>
             <li><a href="teeshirtscraps.html">Tee Shirt Scraps</a></li>
             <li><a href="bighst.html">Big HST from FQs</a></li>
-            <li><a href="butterfly.html">Butterfly Effect</a></li>
+            <li><a href="butterfly.html">SMiLE Butterfly</a></li>
           </ul>
         </div>
         

@@ -94,7 +94,7 @@ const headerEl = `
       
         <div class="sidebar-section">
           <div class="sidebar-title">Currently Reading~</div>
-          <a href=https://learnnatively.com/book/797871f120/"><img class="full-width-image" src="images/flyingwitch4.jpg"></a>
+          <a href="https://learnnatively.com/book/797871f120/"><img class="full-width-image" src="images/flyingwitch4.jpg"></a>
         </div>
 
         <div class="sidebar-section">
@@ -164,10 +164,11 @@ const headerEl = `
         <div class="sidebar-section">
         <blockquote>
           <div class="sidebar-title">Recently completed media</div>
+            <p><a href="https://letterboxd.com/film/star-trek-insurrection/"Star Trek: Insurrection</a></p>
+            <p><a href="https://letterboxd.com/film/star-trek-first-contact/">Star Trek: First Contact</a></p>
             <p><a href="https://letterboxd.com/film/star-trek-generations/">Star Trek: Generations</a></p>
             <p><a href="https://letterboxd.com/film/art-school-confidential/">Art School Confidential</a></p>
             <p><a href="https://letterboxd.com/film/hackers/">Hackers</a></p>
-            <p><a href="https://en.wikipedia.org/wiki/The_Adventures_of_Pete_%26_Pete">The Adventures of Pete and Pete</a></p>
             
           </blockquote>
         </div>

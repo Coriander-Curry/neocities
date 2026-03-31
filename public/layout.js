@@ -91,10 +91,14 @@ const headerEl = `
       <!-- =============================================== -->
 
       <aside class="left-sidebar">
-      
+
         <div class="sidebar-section">
-          <div class="sidebar-title">Currently Reading~</div>
-          <a href="https://learnnatively.com/book/797871f120/"><img class="full-width-image" src="images/flyingwitch4.jpg"></a>
+          <div class="sidebar-title">Currently immersed in~</div>
+          <a href="https://learnnatively.com/book/a3dd08a848/"><img class="full-width-image" src="images/flyingwitch5.jpg"></a>
+          <p>Reading plan/log is <a href="reading.html">here</a></p>
+
+          
+        <p>Japanese language manga & light novel collection listed on <a href="https://learnnatively.com/user/Coriander/jpn/books/"> Natively</a></p>
         </div>
 
         <div class="sidebar-section">
@@ -113,11 +117,7 @@ const headerEl = `
         </blockquote>
         </div>
         
-        <div class="sidebar-section">
-        <div class="sidebar-title">Japanese Manga & Books </div> 
-        <p>My collection listed on <a href="https://learnnatively.com/user/Coriander/jpn/books/"> Natively</a></p>
-        <p>Reading blog/plan/log thingy is <a href="reading.html">here</a></p>
-        </div>
+      
         
         <div class="sidebar-section">
           <div class="sidebar-title">Meet the cats =^.^=</div>

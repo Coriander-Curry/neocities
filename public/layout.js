@@ -164,9 +164,7 @@ const headerEl = `
         <div class="sidebar-section">
         <blockquote>
           <div class="sidebar-title">Recently completed media</div>
-            <p><a href="https://letterboxd.com/film/star-trek-insurrection/"Star Trek: Insurrection</a></p>
-            <p><a href="https://letterboxd.com/film/star-trek-first-contact/">Star Trek: First Contact</a></p>
-            <p><a href="https://letterboxd.com/film/star-trek-generations/">Star Trek: Generations</a></p>
+            <p><a href="https://letterboxd.com/film/star-trek/">Star Trek</a></p>
             <p><a href="https://letterboxd.com/film/art-school-confidential/">Art School Confidential</a></p>
             <p><a href="https://letterboxd.com/film/hackers/">Hackers</a></p>
             
